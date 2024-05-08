@@ -1,8 +1,7 @@
-# **Google Analytics 4 Business Intelligence - GA4BI 📈📲🎵** # Arreglar Emojis
+# **Google Analytics 4 Business Intelligence - GA4BI 💻📲📈** 
+In this repository, I will show analysis applied with the **Google Merchandise Store account** that contains historical data that will allow us interesting analysis.
 
-In this repository, I will show analysis applied with the **Google Merchandise Store account** that contains historical data that will allow us interesting analysis. It is divided into 2 parts:
-
-# Part I: Acquisition Report
+# Acquisition Report
  It is found when using the demo account. **Note:** It is limited because we do not have editing permissions.
 
 ![Acquisition1](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/1.png)
