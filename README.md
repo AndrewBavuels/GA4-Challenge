@@ -23,3 +23,7 @@ That is, do the numbers make sense within Google article sales?_
 _To compare whether this is normal in the industry, let's think about another merchandising business._
 
 ![Acquisition3](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/3.png)
+
+We can compare the Disney Store in **Similar Web**
+![Acquisition4](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/4.png)
+
