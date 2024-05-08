@@ -36,6 +36,11 @@ As we can see, Direct and Organic Search from Disney are kind of the same as in 
 
 ![Acquisition7](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/7.jpg)
 
-Now if we add a new second group arrange, we can check the referral link for that particular traffic source:
+Now if we add a new second group arrangement, we can check the referral link for that particular traffic source:
 
 ![Acquisition8](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/8.jpg)
+
+Most of the referral could be blogs or article related to mobile phones or the very Google products:
+
+![Acquisition9](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/9.jpg)
+
