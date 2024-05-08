@@ -25,5 +25,6 @@ _To compare whether this is normal in the industry, let's think about another me
 ![Acquisition3](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/3.png)
 
 We can compare the Disney Store in **Similar Web**
-![Acquisition4](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/4.png)
+![Acquisition4](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/4.jpg)
 
+![Acquisition5](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/5.jpg)
