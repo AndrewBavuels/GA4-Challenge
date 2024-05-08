@@ -5,7 +5,7 @@ In this repository, I will show analysis applied with the **Google Merchandise S
 # Part I: Acquisition Report
  It is found when using the demo account. **Note:** It is limited because we do not have editing permissions.
 
-![Issues Dashboard](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/Issues%20Dashboard.png)
+![Acquisition1](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/1.png)
 
 
 
