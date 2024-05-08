@@ -17,7 +17,9 @@ The 2 main traffic sources are **Direct** and **Organic Search.**
 - **Direct** is when the user writes directly in the browser shop.googlemerchandisestore.com
 - **Organic Search** is when you search on the Google engine and click on the result (without being Sponsored or Advertised)
 
-How do I know if this is a normal thing to happen?
-That is, do the numbers make sense within Google article sales?
+_How do I know if this is a normal thing to happen?
+That is, do the numbers make sense within Google article sales?_
 
-To compare whether this is normal in the industry, let's think about another merchandising business.
+_To compare whether this is normal in the industry, let's think about another merchandising business._
+
+![Acquisition3](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/3.png)
