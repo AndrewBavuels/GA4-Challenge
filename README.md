@@ -7,7 +7,7 @@ In this repository, I will show analysis applied with the **Google Merchandise S
 
 ![Acquisition1](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/1.png)
 
-### The number of sessions or visits per marketing channels:
+### The number of sessions or visits per marketing channel:
 
 ![Acquisition2](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/2.png)
 
@@ -31,3 +31,7 @@ We can compare the Disney Store in **Similar Web**
 ![Acquisition5](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/5.jpg)
 
 ![Acquisition6](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/6.jpg)
+
+As we can see, Direct and Organic Search from Disney are kind of the same as in Google Merch Store in Acquisition. Let's go back to Google Merch:
+
+![Acquisition7](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/7.jpg)
