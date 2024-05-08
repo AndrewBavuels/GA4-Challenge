@@ -35,3 +35,7 @@ We can compare the Disney Store in **Similar Web**
 As we can see, Direct and Organic Search from Disney are kind of the same as in Google Merch Store in Acquisition. Let's go back to Google Merch:
 
 ![Acquisition7](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/7.jpg)
+
+Now if we add a new second group arrange, we can check the referral link for that particular traffic source:
+
+![Acquisition8](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/8.jpg)
