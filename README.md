@@ -7,6 +7,9 @@ In this repository, I will show analysis applied with the **Google Merchandise S
 
 ![Acquisition1](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/1.png)
 
+### The number of sessions or visits per marketing channels:
+
+![Acquisition2](https://github.com/AndrewBavuels/GA4-Challenge/blob/main/Acquisition/2.png)
 
 
 The 2 main traffic sources are **Direct** and **Organic Search.**
